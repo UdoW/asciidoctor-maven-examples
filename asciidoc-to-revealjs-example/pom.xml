@@ -156,7 +156,7 @@
     <repositories>
         <repository>
             <id>mavengems</id>
-            <url>mavengem:http://rubygems.org</url>
+            <url>mavengem:https://rubygems.org</url>
         </repository>
     </repositories>
 
